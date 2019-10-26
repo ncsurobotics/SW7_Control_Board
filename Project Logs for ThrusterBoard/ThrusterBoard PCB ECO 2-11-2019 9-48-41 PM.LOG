@@ -1,0 +1,59 @@
+Removed Pin From Net: NetName=VR POWER Pin=Pa1F-1
+Removed Pin From Net: NetName=GND Pin=Pa2F-1
+Removed Pin From Net: NetName=VR POWER Pin=Pa3F-1
+Removed Pin From Net: NetName=GND Pin=Pa4F-1
+Removed Member From Class: ClassName=Motor Control Member=P3F
+Removed Member From Class: ClassName=Motor Control Member=P4F
+Removed Member From Class: ClassName=Motor Control Member=Pa1F
+Removed Member From Class: ClassName=Motor Control Member=Pa2F
+Removed Member From Class: ClassName=Motor Control Member=Pa3F
+Removed Member From Class: ClassName=Motor Control Member=Pa4F
+Removed Member From Class: ClassName=ThrusterPower Member=VR POWER
+Added Component: Designator=P1_M1(HDR1X3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P1_M2(HDR1X3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P1_M3(HDR1X3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P1_M4(HDR1X3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P1_M5(HDR1X3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P1_M6(HDR1X3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=D1 Pin=P1_M1-1
+Added Pin To Net: NetName=GND Pin=P1_M1-3
+Added Pin To Net: NetName=D2 Pin=P1_M2-1
+Added Pin To Net: NetName=GND Pin=P1_M2-3
+Added Pin To Net: NetName=D3 Pin=P1_M3-1
+Added Pin To Net: NetName=GND Pin=P1_M3-3
+Added Pin To Net: NetName=D4 Pin=P1_M4-1
+Added Pin To Net: NetName=GND Pin=P1_M4-3
+Added Pin To Net: NetName=D5 Pin=P1_M5-1
+Added Pin To Net: NetName=GND Pin=P1_M5-3
+Added Pin To Net: NetName=D6 Pin=P1_M6-1
+Added Pin To Net: NetName=GND Pin=P1_M6-3
+Added Member To Class: ClassName=M1 Member=Component P1_M1 (P1) Header 3
+Added Member To Class: ClassName=M2 Member=Component P1_M2 (P1) Header 3
+Added Member To Class: ClassName=M3 Member=Component P1_M3 (P1) Header 3
+Added Member To Class: ClassName=M4 Member=Component P1_M4 (P1) Header 3
+Added Member To Class: ClassName=M5 Member=Component P1_M5 (P1) Header 3
+Added Member To Class: ClassName=M6 Member=Component P1_M6 (P1) Header 3

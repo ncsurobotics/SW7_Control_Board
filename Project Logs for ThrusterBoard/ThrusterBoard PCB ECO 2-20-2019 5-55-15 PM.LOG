@@ -1,0 +1,129 @@
+Removed Pin From Net: NetName=24V Pin=F1F_M5-1
+Removed Pin From Net: NetName=24V Pin=F1F_M5-1
+Removed Pin From Net: NetName=24V Pin=F1F_M6-1
+Removed Pin From Net: NetName=24V Pin=F1F_M6-1
+Removed Pin From Net: NetName=NetF1F_M1_2 Pin=J1_M1-1
+Removed Pin From Net: NetName=NetF1F_M1_2 Pin=J1_M1-2
+Removed Pin From Net: NetName=NetF1F_M2_2 Pin=J1_M2-1
+Removed Pin From Net: NetName=NetF1F_M2_2 Pin=J1_M2-2
+Removed Pin From Net: NetName=NetF1F_M3_2 Pin=J1_M3-1
+Removed Pin From Net: NetName=NetF1F_M3_2 Pin=J1_M3-2
+Removed Pin From Net: NetName=NetF1F_M4_2 Pin=J1_M4-1
+Removed Pin From Net: NetName=NetF1F_M4_2 Pin=J1_M4-2
+Removed Pin From Net: NetName=GND Pin=J2_M3-1
+Removed Pin From Net: NetName=GND Pin=J2_M3-2
+Removed Pin From Net: NetName=GND Pin=J2_M4-1
+Removed Pin From Net: NetName=GND Pin=J2_M4-2
+Removed Pin From Net: NetName=GND Pin=J2_M5-1
+Removed Pin From Net: NetName=GND Pin=J2_M5-2
+Removed Pin From Net: NetName=NetF1F_M1_2 Pin=MC1F_M1-V+
+Removed Pin From Net: NetName=NetF1F_M1_2 Pin=MC1F_M1-V+
+Removed Pin From Net: NetName=NetF1F_M2_2 Pin=MC1F_M2-V+
+Removed Pin From Net: NetName=NetF1F_M2_2 Pin=MC1F_M2-V+
+Removed Pin From Net: NetName=NetF1F_M3_2 Pin=MC1F_M3-V+
+Removed Pin From Net: NetName=NetF1F_M3_2 Pin=MC1F_M3-V+
+Removed Pin From Net: NetName=NetF1F_M4_2 Pin=MC1F_M4-V+
+Removed Pin From Net: NetName=NetF1F_M4_2 Pin=MC1F_M4-V+
+Removed Pin From Net: NetName=GND Pin=MC1F_M5-GND
+Removed Pin From Net: NetName=GND Pin=MC1F_M5-GND
+Removed Pin From Net: NetName=GND Pin=MC1F_M5-GND
+Removed Pin From Net: NetName=GND Pin=MC1F_M6-GND
+Removed Pin From Net: NetName=GND Pin=MC1F_M6-GND
+Removed Pin From Net: NetName=GND Pin=MC1F_M6-GND
+Removed Pin From Net: NetName=GND Pin=O1F_U5-2
+Removed Pin From Net: NetName=GND Pin=O1F_U5-4
+Removed Pin From Net: NetName=5V Pin=O1F_U5-6
+Removed Pin From Net: NetName=5V Pin=O1F_U5-8
+Removed Pin From Net: NetName=GND Pin=O1F_U6-2
+Removed Pin From Net: NetName=GND Pin=O1F_U6-4
+Removed Pin From Net: NetName=5V Pin=O1F_U6-6
+Removed Pin From Net: NetName=5V Pin=O1F_U6-8
+Removed Pin From Net: NetName=D1 Pin=P1_M1-3
+Removed Pin From Net: NetName=D2 Pin=P1_M2-3
+Removed Pin From Net: NetName=GND Pin=P1_M3-1
+Removed Pin From Net: NetName=D3 Pin=P1_M3-3
+Removed Pin From Net: NetName=GND Pin=P1_M4-1
+Removed Pin From Net: NetName=D4 Pin=P1_M4-3
+Removed Pin From Net: NetName=GND Pin=P1_M5-1
+Removed Pin From Net: NetName=GND Pin=P1_M6-1
+Removed Pin From Net: NetName=GND Pin=R2F_U5-2
+Removed Pin From Net: NetName=GND Pin=R2F_U6-2
+Removed Pin From Net: NetName=GND Pin=R4F_U5-2
+Removed Pin From Net: NetName=GND Pin=R4F_U6-2
+Removed Member From Class: ClassName=M1 Member=F1F_M1
+Removed Member From Class: ClassName=M2 Member=F1F_M2
+Removed Member From Class: ClassName=M3 Member=J1_M3
+Removed Member From Class: ClassName=M4 Member=J1_M4
+Removed Member From Class: ClassName=M3 Member=J2_M3
+Removed Member From Class: ClassName=M4 Member=J2_M4
+Removed Member From Class: ClassName=M1 Member=Jp1F_M1
+Removed Member From Class: ClassName=M2 Member=Jp1F_M2
+Removed Member From Class: ClassName=M1 Member=MC1F_M1
+Removed Member From Class: ClassName=M2 Member=MC1F_M2
+Removed Member From Class: ClassName=M3 Member=P1_M3
+Removed Member From Class: ClassName=M4 Member=P1_M4
+Removed Member From Class: ClassName=B[1..6] Member=B5
+Removed Member From Class: ClassName=ThrusterPower Member=B5
+Removed Member From Class: ClassName=B[1..6] Member=B6
+Removed Member From Class: ClassName=ThrusterPower Member=B6
+Removed Member From Class: ClassName=D[1..6] Member=D5
+Removed Member From Class: ClassName=ThrusterPower Member=D5
+Removed Member From Class: ClassName=D[1..6] Member=D6
+Removed Member From Class: ClassName=ThrusterPower Member=D6
+Removed Member From Class: ClassName=DIR[1..6] Member=DIR5
+Removed Member From Class: ClassName=DIR[1..6] Member=DIR6
+Removed Member From Class: ClassName=ThrusterPower Member=NetF1F_M5_2
+Removed Member From Class: ClassName=ThrusterPower Member=NetF1F_M6_2
+Removed Member From Class: ClassName=ThrusterPower Member=NetMC1F_M5_5V
+Removed Member From Class: ClassName=ThrusterPower Member=NetMC1F_M6_5V
+Removed Member From Class: ClassName=P[1..6] Member=P5
+Removed Member From Class: ClassName=ThrusterPower Member=P5
+Removed Member From Class: ClassName=P[1..6] Member=P6
+Removed Member From Class: ClassName=ThrusterPower Member=P6
+Removed Member From Class: ClassName=PWM[1..6] Member=PWM5
+Removed Member From Class: ClassName=PWM[1..6] Member=PWM6
+Added Pin To Net: NetName=NetF1_M1_2 Pin=J1_M1-1
+Added Pin To Net: NetName=NetF1_M1_2 Pin=J1_M1-2
+Added Net: Name=NetF1_M1_2
+Added Pin To Net: NetName=NetF1_M2_2 Pin=J1_M2-1
+Added Pin To Net: NetName=NetF1_M2_2 Pin=J1_M2-2
+Added Net: Name=NetF1_M2_2
+Added Pin To Net: NetName=NetJp1F_M1_1 Pin=Jp1F_M1-1
+Added Pin To Net: NetName=NetJp1F_M1_1 Pin=MC1F_M1-V+
+Added Pin To Net: NetName=NetJp1F_M1_1 Pin=MC1F_M1-V+
+Added Net: Name=NetJp1F_M1_1
+Added Pin To Net: NetName=NetJp1F_M2_1 Pin=Jp1F_M2-1
+Added Pin To Net: NetName=NetJp1F_M2_1 Pin=MC1F_M2-V+
+Added Pin To Net: NetName=NetJp1F_M2_1 Pin=MC1F_M2-V+
+Added Net: Name=NetJp1F_M2_1
+Added Pin To Net: NetName=NetJp1F_M3_1 Pin=Jp1F_M3-1
+Added Pin To Net: NetName=NetJp1F_M3_1 Pin=MC1F_M3-V+
+Added Pin To Net: NetName=NetJp1F_M3_1 Pin=MC1F_M3-V+
+Added Net: Name=NetJp1F_M3_1
+Added Pin To Net: NetName=NetJp1F_M4_1 Pin=Jp1F_M4-1
+Added Pin To Net: NetName=NetJp1F_M4_1 Pin=MC1F_M4-V+
+Added Pin To Net: NetName=NetJp1F_M4_1 Pin=MC1F_M4-V+
+Added Net: Name=NetJp1F_M4_1
+Added Pin To Net: NetName=NetU2F_1 Pin=U2F-1
+Added Net: Name=NetU2F_1
+Added Pin To Net: NetName=NetU2F_2 Pin=U2F-2
+Added Net: Name=NetU2F_2
+Added Pin To Net: NetName=NetU2F_20 Pin=U2F-20
+Added Net: Name=NetU2F_20
+Added Pin To Net: NetName=NetU2F_21 Pin=U2F-21
+Added Net: Name=NetU2F_21
+Added Pin To Net: NetName=P_ESC Pin=P1_M1-3
+Added Pin To Net: NetName=P_ESC Pin=P1_M2-3
+Added Net: Name=P_ESC
+Change Class Name : Old Net Name=B[1..6] New Net Name=B[1..4]
+Change Class Name : Old Net Name=D[1..6] New Net Name=D[1..4]
+Change Class Name : Old Net Name=DIR[1..6] New Net Name=DIR[1..4]
+Change Class Name : Old Net Name=P[1..6] New Net Name=P[1..4]
+Change Class Name : Old Net Name=PWM[1..6] New Net Name=PWM[1..4]
+Added Class: Name=ESC
+Added Member To Class: ClassName=ThrusterPower Member=Wire NetJp1F_M1_1
+Added Member To Class: ClassName=ThrusterPower Member=Wire NetJp1F_M2_1
+Added Member To Class: ClassName=ThrusterPower Member=Wire NetJp1F_M3_1
+Added Member To Class: ClassName=ThrusterPower Member=Wire NetJp1F_M4_1
+Added Room: Name=M1
+Added Room: Name=M2

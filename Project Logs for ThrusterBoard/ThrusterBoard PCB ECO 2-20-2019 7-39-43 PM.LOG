@@ -1,0 +1,3 @@
+Change Class Name : Old Net Name=PWM[1..6] New Net Name=PWM[1..4]
+Change Room Name: Old Name=M_1 New Name=M1
+Change Room Name: Old Name=M_2 New Name=M2

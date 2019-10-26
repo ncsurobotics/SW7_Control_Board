@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=PWM5 Pin=P1_M1-3
+Added Pin To Net: NetName=PWM6 Pin=P1_M2-3
+Change Room Name: Old Name=M_1 New Name=M1
+Change Room Name: Old Name=M_2 New Name=M2
