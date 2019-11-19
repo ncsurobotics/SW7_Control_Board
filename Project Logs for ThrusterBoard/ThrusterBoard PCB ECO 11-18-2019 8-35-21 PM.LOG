@@ -1,0 +1,371 @@
+Added Component: Designator=F1_M1(Horizontal SMD fuse clip)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.farnell.com/datasheets/1703973.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.farnell.com/datasheets/1703973.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 1"; Value = "KEYSTONE - 3569TR - FUSE CLIP, AUTO BLADE, SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "KEYSTONE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "3569TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.798, 50=0.672, 100=0.644, 250=0.589, 500=0.566, 1000=0.491, 2500=0.427, 5000=0.413 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "YES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "1000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Subassembly"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "24T5056"; VariantName = "[No Variations]"
+Added Component: Designator=F1_M2(Horizontal SMD fuse clip)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.farnell.com/datasheets/1703973.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.farnell.com/datasheets/1703973.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 1"; Value = "KEYSTONE - 3569TR - FUSE CLIP, AUTO BLADE, SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "KEYSTONE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "3569TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.798, 50=0.672, 100=0.644, 250=0.589, 500=0.566, 1000=0.491, 2500=0.427, 5000=0.413 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "YES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "1000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Subassembly"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "24T5056"; VariantName = "[No Variations]"
+Added Component: Designator=F1F_M1(Horizontal SMD fuse clip)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.farnell.com/datasheets/1703973.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.farnell.com/datasheets/1703973.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 1"; Value = "KEYSTONE - 3569TR - FUSE CLIP, AUTO BLADE, SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "KEYSTONE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "3569TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.798, 50=0.672, 100=0.644, 250=0.589, 500=0.566, 1000=0.491, 2500=0.427, 5000=0.413 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "YES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "1000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Subassembly"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "24T5056"; VariantName = "[No Variations]"
+Added Component: Designator=F1F_M2(Horizontal SMD fuse clip)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.farnell.com/datasheets/1703973.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.farnell.com/datasheets/1703973.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 1"; Value = "KEYSTONE - 3569TR - FUSE CLIP, AUTO BLADE, SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "KEYSTONE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "3569TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.798, 50=0.672, 100=0.644, 250=0.589, 500=0.566, 1000=0.491, 2500=0.427, 5000=0.413 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "YES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "1000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Subassembly"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "24T5056"; VariantName = "[No Variations]"
+Added Component: Designator=F1F_M3(Horizontal SMD fuse clip)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.farnell.com/datasheets/1703973.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.farnell.com/datasheets/1703973.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 1"; Value = "KEYSTONE - 3569TR - FUSE CLIP, AUTO BLADE, SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "KEYSTONE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "3569TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.798, 50=0.672, 100=0.644, 250=0.589, 500=0.566, 1000=0.491, 2500=0.427, 5000=0.413 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "YES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "1000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Subassembly"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "24T5056"; VariantName = "[No Variations]"
+Added Component: Designator=F1F_M4(Horizontal SMD fuse clip)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.farnell.com/datasheets/1703973.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.farnell.com/datasheets/1703973.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 1"; Value = "KEYSTONE - 3569TR - FUSE CLIP, AUTO BLADE, SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "KEYSTONE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "3569TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.798, 50=0.672, 100=0.644, 250=0.589, 500=0.566, 1000=0.491, 2500=0.427, 5000=0.413 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "YES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "1000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Subassembly"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "24T5056"; VariantName = "[No Variations]"
+Added Component: Designator=J1_M1(PHOENIX_1935161)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1935161"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1935161/Phoenix%20Contact/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J1_M2(PHOENIX_1935161)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1935161"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1935161/Phoenix%20Contact/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J2_M1(PHOENIX_1935161)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1935161"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1935161/Phoenix%20Contact/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J2_M2(PHOENIX_1935161)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1935161"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1935161/Phoenix%20Contact/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Jp1F_M1(Jumper, 12AWG, 0.6")
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "xxmil"; VariantName = "[No Variations]"
+Added Component: Designator=Jp1F_M2(Jumper, 12AWG, 0.6")
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "xxmil"; VariantName = "[No Variations]"
+Added Component: Designator=Jp1F_M3(Jumper, 12AWG, 0.6")
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "xxmil"; VariantName = "[No Variations]"
+Added Component: Designator=Jp1F_M4(Jumper, 12AWG, 0.6")
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "xxmil"; VariantName = "[No Variations]"
+Added Component: Designator=MC1F_M1(Pololu 24v12)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Pololu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "24v12"; VariantName = "[No Variations]"
+Added Component: Designator=MC1F_M2(Pololu 24v12)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Pololu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "24v12"; VariantName = "[No Variations]"
+Added Component: Designator=MC1F_M3(Pololu 24v12)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Pololu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "24v12"; VariantName = "[No Variations]"
+Added Component: Designator=MC1F_M4(Pololu 24v12)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Pololu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "24v12"; VariantName = "[No Variations]"
+Added Component: Designator=P1_M1(HDR1X3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P1_M2(HDR1X3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P2F(MCDN 1,5/10-G1-3,5 P14THR w/ FMCD 1,5 9-ST-3,5)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X1(HDR1X15)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=X2(HDR1X15)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=X3D(70555-0037)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.farnell.com/cad/1737917.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.farnell.com/cad/1737917.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://www.farnell.com/datasheets/1947503.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.farnell.com/datasheets/1947503.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "http://www.farnell.com/cad/1980011.zip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.farnell.com/cad/1980011.zip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold Plated Contacts"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Termination Type"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "MOLEX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No. of Contacts"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No. of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch Spacing"; Value = "2.54"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.679, 10=0.622, 100=0.575, 500=0.575, 1000=0.534, 2000=0.495, 5000=0.484, 10000=0.47 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Range"; Value = "SL 70555 Series"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "YES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "1580"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "59H2958"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=X2-12
+Added Pin To Net: NetName=+5 Pin=X3D-1
+Added Net: Name=+5
+Added Pin To Net: NetName=24V Pin=F1_M1-1
+Added Pin To Net: NetName=24V Pin=F1_M1-1
+Added Pin To Net: NetName=24V Pin=F1_M2-1
+Added Pin To Net: NetName=24V Pin=F1_M2-1
+Added Pin To Net: NetName=24V Pin=F1F_M1-1
+Added Pin To Net: NetName=24V Pin=F1F_M1-1
+Added Pin To Net: NetName=24V Pin=F1F_M2-1
+Added Pin To Net: NetName=24V Pin=F1F_M2-1
+Added Pin To Net: NetName=24V Pin=F1F_M3-1
+Added Pin To Net: NetName=24V Pin=F1F_M3-1
+Added Pin To Net: NetName=24V Pin=F1F_M4-1
+Added Pin To Net: NetName=24V Pin=F1F_M4-1
+Added Net: Name=24V
+Added Pin To Net: NetName=A0 Pin=X3D-2
+Added Net: Name=A0
+Added Pin To Net: NetName=A1 Pin=MC1F_M1-OUTA
+Added Pin To Net: NetName=A1 Pin=MC1F_M1-OUTA
+Added Pin To Net: NetName=A1 Pin=P2F-1
+Added Net: Name=A1
+Added Pin To Net: NetName=A2 Pin=MC1F_M2-OUTA
+Added Pin To Net: NetName=A2 Pin=MC1F_M2-OUTA
+Added Pin To Net: NetName=A2 Pin=P2F-3
+Added Net: Name=A2
+Added Pin To Net: NetName=A3 Pin=MC1F_M3-OUTA
+Added Pin To Net: NetName=A3 Pin=MC1F_M3-OUTA
+Added Pin To Net: NetName=A3 Pin=P2F-5
+Added Net: Name=A3
+Added Pin To Net: NetName=A4 Pin=MC1F_M4-OUTA
+Added Pin To Net: NetName=A4 Pin=MC1F_M4-OUTA
+Added Pin To Net: NetName=A4 Pin=P2F-7
+Added Net: Name=A4
+Added Pin To Net: NetName=B1 Pin=MC1F_M1-OUTB
+Added Pin To Net: NetName=B1 Pin=MC1F_M1-OUTB
+Added Pin To Net: NetName=B1 Pin=P2F-2
+Added Net: Name=B1
+Added Pin To Net: NetName=B2 Pin=MC1F_M2-OUTB
+Added Pin To Net: NetName=B2 Pin=MC1F_M2-OUTB
+Added Pin To Net: NetName=B2 Pin=P2F-4
+Added Net: Name=B2
+Added Pin To Net: NetName=B3 Pin=MC1F_M3-OUTB
+Added Pin To Net: NetName=B3 Pin=MC1F_M3-OUTB
+Added Pin To Net: NetName=B3 Pin=P2F-6
+Added Net: Name=B3
+Added Pin To Net: NetName=B4 Pin=MC1F_M4-OUTB
+Added Pin To Net: NetName=B4 Pin=MC1F_M4-OUTB
+Added Pin To Net: NetName=B4 Pin=P2F-8
+Added Net: Name=B4
+Added Pin To Net: NetName=D1 Pin=MC1F_M1-PWM
+Added Net: Name=D1
+Added Pin To Net: NetName=D2 Pin=MC1F_M2-PWM
+Added Net: Name=D2
+Added Pin To Net: NetName=D3 Pin=MC1F_M3-PWM
+Added Net: Name=D3
+Added Pin To Net: NetName=D4 Pin=MC1F_M4-PWM
+Added Net: Name=D4
+Added Pin To Net: NetName=DIR1 Pin=X1-5
+Added Net: Name=DIR1
+Added Pin To Net: NetName=DIR2 Pin=X1-7
+Added Net: Name=DIR2
+Added Pin To Net: NetName=DIR3 Pin=X1-10
+Added Net: Name=DIR3
+Added Pin To Net: NetName=DIR4 Pin=X1-11
+Added Net: Name=DIR4
+Added Pin To Net: NetName=GND Pin=J2_M1-1
+Added Pin To Net: NetName=GND Pin=J2_M1-2
+Added Pin To Net: NetName=GND Pin=J2_M2-1
+Added Pin To Net: NetName=GND Pin=J2_M2-2
+Added Pin To Net: NetName=GND Pin=MC1F_M1-GND
+Added Pin To Net: NetName=GND Pin=MC1F_M1-GND
+Added Pin To Net: NetName=GND Pin=MC1F_M1-GND
+Added Pin To Net: NetName=GND Pin=MC1F_M2-GND
+Added Pin To Net: NetName=GND Pin=MC1F_M2-GND
+Added Pin To Net: NetName=GND Pin=MC1F_M2-GND
+Added Pin To Net: NetName=GND Pin=MC1F_M3-GND
+Added Pin To Net: NetName=GND Pin=MC1F_M3-GND
+Added Pin To Net: NetName=GND Pin=MC1F_M3-GND
+Added Pin To Net: NetName=GND Pin=MC1F_M4-GND
+Added Pin To Net: NetName=GND Pin=MC1F_M4-GND
+Added Pin To Net: NetName=GND Pin=MC1F_M4-GND
+Added Pin To Net: NetName=GND Pin=P1_M1-1
+Added Pin To Net: NetName=GND Pin=P1_M2-1
+Added Pin To Net: NetName=GND Pin=X2-14
+Added Pin To Net: NetName=GND Pin=X3D-3
+Added Net: Name=GND
+Added Pin To Net: NetName=NetF1_M1_2 Pin=F1_M1-2
+Added Pin To Net: NetName=NetF1_M1_2 Pin=F1_M1-2
+Added Pin To Net: NetName=NetF1_M1_2 Pin=J1_M1-1
+Added Pin To Net: NetName=NetF1_M1_2 Pin=J1_M1-2
+Added Net: Name=NetF1_M1_2
+Added Pin To Net: NetName=NetF1_M2_2 Pin=F1_M2-2
+Added Pin To Net: NetName=NetF1_M2_2 Pin=F1_M2-2
+Added Pin To Net: NetName=NetF1_M2_2 Pin=J1_M2-1
+Added Pin To Net: NetName=NetF1_M2_2 Pin=J1_M2-2
+Added Net: Name=NetF1_M2_2
+Added Pin To Net: NetName=NetF1F_M1_2 Pin=F1F_M1-2
+Added Pin To Net: NetName=NetF1F_M1_2 Pin=F1F_M1-2
+Added Pin To Net: NetName=NetF1F_M1_2 Pin=Jp1F_M1-2
+Added Net: Name=NetF1F_M1_2
+Added Pin To Net: NetName=NetF1F_M2_2 Pin=F1F_M2-2
+Added Pin To Net: NetName=NetF1F_M2_2 Pin=F1F_M2-2
+Added Pin To Net: NetName=NetF1F_M2_2 Pin=Jp1F_M2-2
+Added Net: Name=NetF1F_M2_2
+Added Pin To Net: NetName=NetF1F_M3_2 Pin=F1F_M3-2
+Added Pin To Net: NetName=NetF1F_M3_2 Pin=F1F_M3-2
+Added Pin To Net: NetName=NetF1F_M3_2 Pin=Jp1F_M3-2
+Added Net: Name=NetF1F_M3_2
+Added Pin To Net: NetName=NetF1F_M4_2 Pin=F1F_M4-2
+Added Pin To Net: NetName=NetF1F_M4_2 Pin=F1F_M4-2
+Added Pin To Net: NetName=NetF1F_M4_2 Pin=Jp1F_M4-2
+Added Net: Name=NetF1F_M4_2
+Added Pin To Net: NetName=NetJp1F_M1_1 Pin=Jp1F_M1-1
+Added Pin To Net: NetName=NetJp1F_M1_1 Pin=MC1F_M1-V+
+Added Pin To Net: NetName=NetJp1F_M1_1 Pin=MC1F_M1-V+
+Added Net: Name=NetJp1F_M1_1
+Added Pin To Net: NetName=NetJp1F_M2_1 Pin=Jp1F_M2-1
+Added Pin To Net: NetName=NetJp1F_M2_1 Pin=MC1F_M2-V+
+Added Pin To Net: NetName=NetJp1F_M2_1 Pin=MC1F_M2-V+
+Added Net: Name=NetJp1F_M2_1
+Added Pin To Net: NetName=NetJp1F_M3_1 Pin=Jp1F_M3-1
+Added Pin To Net: NetName=NetJp1F_M3_1 Pin=MC1F_M3-V+
+Added Pin To Net: NetName=NetJp1F_M3_1 Pin=MC1F_M3-V+
+Added Net: Name=NetJp1F_M3_1
+Added Pin To Net: NetName=NetJp1F_M4_1 Pin=Jp1F_M4-1
+Added Pin To Net: NetName=NetJp1F_M4_1 Pin=MC1F_M4-V+
+Added Pin To Net: NetName=NetJp1F_M4_1 Pin=MC1F_M4-V+
+Added Net: Name=NetJp1F_M4_1
+Added Pin To Net: NetName=NetMC1F_M1_5V Pin=MC1F_M1-5V
+Added Pin To Net: NetName=NetMC1F_M1_5V Pin=MC1F_M1-RESET
+Added Net: Name=NetMC1F_M1_5V
+Added Pin To Net: NetName=NetMC1F_M2_5V Pin=MC1F_M2-5V
+Added Pin To Net: NetName=NetMC1F_M2_5V Pin=MC1F_M2-RESET
+Added Net: Name=NetMC1F_M2_5V
+Added Pin To Net: NetName=NetMC1F_M3_5V Pin=MC1F_M3-5V
+Added Pin To Net: NetName=NetMC1F_M3_5V Pin=MC1F_M3-RESET
+Added Net: Name=NetMC1F_M3_5V
+Added Pin To Net: NetName=NetMC1F_M4_5V Pin=MC1F_M4-5V
+Added Pin To Net: NetName=NetMC1F_M4_5V Pin=MC1F_M4-RESET
+Added Net: Name=NetMC1F_M4_5V
+Added Pin To Net: NetName=P1 Pin=MC1F_M1-DIR
+Added Net: Name=P1
+Added Pin To Net: NetName=P2 Pin=MC1F_M2-DIR
+Added Net: Name=P2
+Added Pin To Net: NetName=P3 Pin=MC1F_M3-DIR
+Added Net: Name=P3
+Added Pin To Net: NetName=P4 Pin=MC1F_M4-DIR
+Added Net: Name=P4
+Added Pin To Net: NetName=PWM1 Pin=X1-6
+Added Net: Name=PWM1
+Added Pin To Net: NetName=PWM2 Pin=X1-8
+Added Net: Name=PWM2
+Added Pin To Net: NetName=PWM3 Pin=X1-9
+Added Net: Name=PWM3
+Added Pin To Net: NetName=PWM4 Pin=X1-12
+Added Net: Name=PWM4
+Added Pin To Net: NetName=PWM5 Pin=P1_M1-3
+Added Pin To Net: NetName=PWM5 Pin=X1-13
+Added Net: Name=PWM5
+Added Pin To Net: NetName=PWM6 Pin=P1_M2-3
+Added Pin To Net: NetName=PWM6 Pin=X1-14
+Added Net: Name=PWM6
+Added Class: Name=M1
+Added Class: Name=M2
+Added Class: Name=M3
+Added Class: Name=M4
+Added Class: Name=Motor Control
+Added Class: Name=Thruster Board
+Added Class: Name=A[1..6]
+Added Class: Name=B[1..4]
+Added Class: Name=D[1..4]
+Added Class: Name=DIR[1..4]
+Added Class: Name=P[1..4]
+Added Class: Name=PWM[1..4]
+Added Class: Name=ThrusterPower
+Added Class: Name=ESC
+Added Class: Name=HBridges
+Added Room: Name=M1
+Added Room: Name=M1
+Added Room: Name=M2
+Added Room: Name=M2
+Added Room: Name=M3
+Added Room: Name=M4
+Added Room: Name=Motor Control
+Added Room: Name=Thruster Board
